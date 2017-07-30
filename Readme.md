@@ -10,10 +10,6 @@ View the platforms and functional data sheet to compare the various offerings wi
 
 This repository serves to index and allows for navigation through the growing content specifically focused on NetScaler ADC within the [Citrix-TechSpecialist](https://github.com/Citrix-TechSpecialist) Github organization. Here you can find tutorials, reference guides and auxiliary tools to better accustom yourself with NetScaler ADC and how to manage and administer the networking appliance. 
 
-# Index
-
-Here is a manually updated list every time a new repository or collateral is published for quick navigation to relevant material. 
-
 ## AWS 
 
 This directory holds all relevant submodules within the [Citrix-TechSpecialist](https://github.com/Citrix-TechSpecialist) organization of NetScaler deployed in AWS Cloud along with general information on how to manage AWS resources.
