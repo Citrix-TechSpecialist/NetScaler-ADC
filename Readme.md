@@ -40,7 +40,7 @@ This directory holds all relevant submodules within the [Citrix-TechSpecialist](
 
 This tutorial demonstrates how to deploy NetScaler CPX as a replacement for [Kube-Proxy](https://kubernetes.io/docs/admin/kube-proxy/) for E-W Load Balancing within Kubernetes. The tutorial operates as an example in [Google Container Engine (GKE)](https://cloud.google.com/container-engine/) but can be used as reference for any on-prem Kubernetes deployment as well. 
 
-**[GoLand-cpx](https://github.com/Citrix-TechSpecialist/GoLang-cpx/)**
+**[GoLang-cpx](https://github.com/Citrix-TechSpecialist/GoLang-cpx/)**
 
 This is a portable Blog written by [@btannous](github.com/btannous/) explaining how to code in GoLang to send [NITRO API](http://docs.citrix.com/en-us/netscaler/12/nitro-api.html) calls to NetScaler CPX for management and configuration. This blog provides sample scripts and code to help getting started with one of many ways to interrogate and administer NetScaler CPX for container load balancing and microservices delivery. 
 
